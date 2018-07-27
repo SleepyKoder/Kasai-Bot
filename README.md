@@ -7,8 +7,8 @@ To do list:
 
 Current commands (!k):
 
-greentext        echoes messages as greentext
+greentext      -    echoes messages as greentext
 
-copypasta        access the magical copypasta database
+copypasta      -    access the magical copypasta database
 
-roll             rolls a number from 0 -inputted value
+roll           -    rolls a number from 0 -inputted value
